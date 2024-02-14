@@ -1,0 +1,13 @@
+@font-face {
+    font-family: papyrus;
+    src: url(papyrus.ttf);
+}
+
+html {
+    font-family: Papyrus;
+    background-image:url("background.jfif") ;
+}
+
+h1, h3, p {
+    color: white;
+}
